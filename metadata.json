@@ -1,0 +1,8 @@
+{
+  "name": "Kenakata.com",
+  "description": "A premium, mobile-first E-commerce platform for Bangladesh supporting Bangla/English and secure local shopping experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
